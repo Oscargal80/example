@@ -26,9 +26,9 @@ description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Para
   # ...
   # Note: result of the tree command
   userName = "Oski"
-  pcName = "AppSvr"
-  workDir = "binariaos/app/site/"
-  profile = "server_start.php"
+  pcName = "sistema01"
+  workDir = "estamos de"
+  profile = "cumple"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
