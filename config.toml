@@ -25,7 +25,7 @@ description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Para
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "BinariaOS"
+  userName = "Oski"
   pcName = "AppSvr"
   workDir = "binariaos/app/site/"
   profile = "server_start.php"
