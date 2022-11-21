@@ -15,8 +15,8 @@ description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Para
   schema = "monokai"
 
   # Note: in terminal
-  # [userName]@[pcName]:~/$ cd [workDir]
-  # [userName]@[pcName]:~/[workDir]$ cat [profile]
+  # [userName]@[pcName]:~/$ [workDir]
+  # [userName]@[pcName]:~/[workDir]$ [profile]
   #
   # [description]
   #
@@ -27,7 +27,7 @@ description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Para
   # Note: result of the tree command
   userName = "Oski"
   pcName = "sistema01"
-  workDir = "estamos de"
+  workDir = "celebramos el"
   profile = "cumple"
 
   # Note: speed at which text is displayed on the terminal
