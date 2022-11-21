@@ -1,9 +1,9 @@
 baseURL = "https://binariaos.com.py"
 languageCode = "es-la"
-title = "BinariaOS App || Desarrollo, Web, Diseño, Asucnión, Paraguay"
+title = "Bienvenida bebe"
 theme = "hugo-theme-shell"
 # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Paraguay"
+description = "#"
 
 [Params]
   favicon ="favicon.ico"
@@ -52,12 +52,14 @@ description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Para
   #activityDelay = 5 #: deprecated
 
   description = """
-  Listo-
-  Bienvenido a BinariaOS
-  Diseño y desarrollo web
-  Nuestro compromiso es crecer 
-  con usted y su emprendimiento
-  Adelantando el futuro...
+  Hola Hermosa-
+  Aparte de felicitarte hoy,
+  quiero celebrar un privilegio mio:
+  El poder conocerte y estar con vos
+  Tu piel y tu aroma son lo mejor de este universo
+  Hay algo para vos en el lugar de siempre, buscalo.
+  con mucho afecto...
+  Yop.
   """
 
   # Note: If you want to use a Markdown file, you can use the following
