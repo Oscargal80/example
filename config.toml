@@ -27,7 +27,7 @@ description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Para
   # Note: result of the tree command
   userName = "Oski"
   pcName = "sistema01"
-  workDir = Pao bebe
+  workDir = "Pao bebe"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
