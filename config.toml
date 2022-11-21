@@ -71,13 +71,8 @@ description = "#"
   folderName = "/main/activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
     files = [
-        ["Main SIte", "https://go.binariaos.com.py"],
-        ["e-Commerce", "https://shop.binariaos.com.py"],
-        ["WordPress", "https://sites.binariaos.com.py"],
-        ["MS-DOS", "https://msdos.binariaos.com.py"],
-        ["Dev in Go", "/works/go.md"],
-        ["Hugo Framework", "/works/hugo.md"],
-        ["Contact!", "https://wa.me/595981480801"]
+        ["PARA VOS", "https://go.binariaos.com.py"],
+        ["Y UNA MAS", "https://shop.binariaos.com.py"],
     ]
    
 [module]
