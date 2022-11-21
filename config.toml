@@ -15,8 +15,8 @@ description = "Welcome to BinariaOS || Desarrollo, Web, Diseño, Asucnión, Para
   schema = "monokai"
 
   # Note: in terminal
-  # [userName]@[pcName]:~/$ [workDir]
-  # [userName]@[pcName]:~/[workDir]$ [profile]
+  # [userName]@[pcName]:~/$ cd [workDir]
+  # [userName]@[pcName]:~/[workDir]$  cat [profile]
   #
   # [description]
   #
