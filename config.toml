@@ -60,6 +60,8 @@ description = "#"
   Hay algo para vos en el lugar de siempre, buscalo.
   con mucho afecto...
   Yop.
+  PD: te dejo un par de musicas no se si seran de tu agrado pero la
+  intencion es lo que cuenta. bye
   """
 
   # Note: If you want to use a Markdown file, you can use the following
@@ -71,8 +73,8 @@ description = "#"
   folderName = "/main/activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
     files = [
-        ["PARA VOS", "https://go.binariaos.com.py"],
-        ["Y UNA MAS", "https://shop.binariaos.com.py"],
+        ["PARA VOS", "https://www.youtube.com/watch?v=OSUxrSe5GbI"],
+        ["Y UNA MAS", "https://www.youtube.com/watch?v=ZZqzgQy53ak"],
     ]
    
 [module]
